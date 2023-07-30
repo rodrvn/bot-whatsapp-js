@@ -20,12 +20,12 @@
 
 1. Clona el repositorio e instala las dependencias necesarias.
 2. Obtiene tus claves de API de OpenAI y configura el bot.
-3. Configura las credenciales de WhatsApp Web para que el bot inicie sesión.
-4. Ejecuta la aplicación de Node.js y comienza a chatear con tu bot de WhatsApp con IA.
+3. Ejecuta la aplicación de Node.js con el siguiente comando y comienza a configurar las credenciales de WhatsApp Web para que el bot inicie sesión.
+   > npm start
+5. Comienza a chatear con tu bot de WhatsApp con IA
 
 ## Ejemplos de casos de uso:
 
-- Obtén actualizaciones meteorológicas en tiempo real para una ubicación específica.
 - Proporciona respuestas instantáneas a preguntas frecuentes.
 - Traducción de idiomas para conversaciones multilingües.
 - Recordatorios y programación de eventos personalizados.
