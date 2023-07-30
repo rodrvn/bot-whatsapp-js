@@ -1,6 +1,6 @@
 # Bot de WhatsApp con IA utilizando Node.js y OpenAI
 
-![Bot de WhatsApp con IA](link_to_image)
+![Bot de WhatsApp con IA]([link_to_image](https://github.com/rodrvn/bot-whatsapp-js/blob/main/icono-de-bot-de-whatsapp.png))
 
 *Automatiza tus conversaciones de WhatsApp con el poder de la inteligencia artificial.*
 
