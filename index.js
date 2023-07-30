@@ -14,7 +14,7 @@ const MODEL_NAME = "text-davinci-003";
 const MAX_TOKENS = 200;
 
 // Establecer la clave de la API de OpenAI.
-const apiKey = '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';
+const apiKey = 'API_KEY';
 
 // Crear una nueva configuración con la clave de la API de OpenAI.
 const config = new Configuration({ apiKey });
