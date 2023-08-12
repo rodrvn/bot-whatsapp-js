@@ -30,8 +30,7 @@
 
 - Proporciona respuestas instantáneas a preguntas frecuentes.
 - Traducción de idiomas para conversaciones multilingües.
-- Recordatorios y programación de eventos personalizados.
-- Experiencias interactivas de cuentacuentos y juegos de rol.
+- Experiencias interactivas de cuentacuentos
 
 ## Contribuye:
 
